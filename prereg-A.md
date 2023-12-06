@@ -21,7 +21,7 @@ Answer:
 
 Answer:
 
-##A.4 Training data
+## A.4 Training data
 **Q. How was the training data constructed?**
 *Example Answer: Historical information about passengers on the ship. I will split this data to reserve a validate set equal in size to the test set.*
 
@@ -39,7 +39,7 @@ Answer:
 
 Answer:
 
-##A.7 Metrics
+## A.7 Metrics
 **Q. How will you measure the success of your model in predicting the outcome? If you are using a measure such as accuracy that requires thresholding of a continuous prediction, please specify the threshold(s) you will use.**
 *Example answer:Precision in the top 100 most highly predicted cases (classification, unthresholded) OR AUC (classification), precision w/ threshold of 50% (classification).*
 

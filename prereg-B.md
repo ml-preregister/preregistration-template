@@ -27,7 +27,7 @@ Answer:
 
 Answer:
 
-##B.5 Plan adjustments
+## B.5 Plan adjustments
 **Q. Are there any changes in your process as compared to your previous answers that you'd like to report?**
 *Example answer: I dropped two additional features (sex, age).*
 
